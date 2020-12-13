@@ -1,0 +1,42 @@
+﻿Director,,,,,,
+DirectorID,DirectorFirstName,DirectorLastName,DirectorGender,DirectorBirthday,CountryID,DirectorDescription
+1,Don,Michael Pau,Male,"April 17, 1763",1,"He has directed several films, including Half Past Dead in 2002, Lake Placid: The Final Chapter (2012), and Tremors 5: Bloodlines."
+2,Anurag,Kashyap,Male,"September 10, 1972",2,"An Indian film director, writer, editor, producer, actor known for his works in Hindi cinema. "
+3,Yibrán,Asuad,Male,"March 21, 1973",3,"Editor, producer, representative works include ""Güeros"", etc."
+4,Huatao,Teng,Male,"January 1, 1972",4,"A director and producer, known for Love is not Blind"
+5,Glen,Goei,Male,"December 22, 1962",5,One of Singapore's leading film and theatre directors.
+6,Dennis,Iliadis,Male,"December 31, 1969",6,A Greek film director. He is best known for his work on The Last House on the Left.
+7,Kanwal,Sethi,Male,"January 01, 1971",2,JUNCTION POINT was his debut feature film that priemierd at Max Öphuls Preis.
+8,Akram,Farouk,Male,"September 31, 1967",9,A director in Egypt.
+9,Sunao,Katabuchi,Male,"August 10, 1960",10,"A Japanese screenwriter, storyboard artist, and director."
+10,José,Eduardo Belmonte,Male,"January 01, 1970",11,"A director and writer, known for Se Nada Mais Der Certo (2008), A Concepção (2005) and Alemão (2014)."
+11,David,Wnendt,Male,"December 13, 1977",7,"A director and writer, known for Er ist wieder da (2015), Kriegerin (2011) and Feuchtgebiete (2013)."
+12,Benson,Lee,Male,1969-11-03,1,"A producer and director, known for Seoul Searching (2015), Miss Monday (1998) and Planet B-Boy (2007)."
+13,Petra,Costa,Female,1983-07-08,11,A Brazilian actress and filmmaker whose work lives on the borderlines of fiction and nonfiction.
+14,David,Batty,Male,1962-01-23,13,"Best known for documentaries, but he also made four simultaneous films about the life of Jesus."
+15,Volker,Arzt,Male,1941-01-01,7,"A German graduate physicist, science journalist, television moderator and author."
+16,Keanu,Reeves,Male,1964-09-02,22,"A Canadian actor, producer, and musician."
+17,Andrew,Stanton,Male,1965-12-03,1,"An American film director, screenwriter, producer and voice actor based at Pixar, which he joined in 1990."
+18,Toshiyuki,Kubooka,Male,1963-12-19,10,"A Japanese animator, character designer, and director."
+19,Chayanop,Boonprakob,Male,1984-08-05,15,He came up with an idea to develop a feature film by inviting Chayanop to make “SuckSeed” into a film for the big screen.
+20,Ruel,S. Bayani,Male,1969-07-06,16,"A director and production manager, known for No Other Woman (2011), Babae (1997)."
+21,Andrés,Couturier,Male,1977-02-05,3,"He is an actor and director, known for El agente 00-P2 (2009)."
+22,Anand,Tucker,Male,1963-06-24,13,A film director and producer based in London.
+23,Poj,Arnon,Male,1970-12-31,15,"A Thai film director, he is best known for his 2007 film Bangkok Love Story."
+24,Gareth,Evans,Male,1980-01-01,13,"A Welsh film director, screenwriter, editor, and action choreographer. "
+25,Jiang,Liu,Male,1969-02-08,4,"A Chinese television director, producer and screenwriter best known for his work Before Dawn."
+26,Apoorva,Lakhia,Male,1968-09-20,2,"An Indian film director, known for Haseena (2017), Shootout at Lokhandwala (2007)."
+27,Leslie,Iwerks,Female,1970-01-01,1,"An American producer, director, and writer. She is daughter of Disney Legend Don Iwerks."
+28,Peter,Hewitt,Male,1962-10-06,13,An English film director and writer.
+29,Cem,Yilmaz,Male,1973-04-23,19,"A Turkish stand-up comedian, actor, voice actor, musician, filmmaker, screen writer, and cartoonist."
+30,Robert,Rodriguez,Male,1968-06-20,1,An American filmmaker and visual effects supervisor.
+31,George,Clooney,Male,1961-05-06,1,"An American actor, director, producer and filmmaker, recipient of three Golden Globe Awards and two Academy Awards."
+32,Chan-sang,Lim,Male,1969-01-01,12,"Famous Korean director, representative works include ""Hyozidong Barber""."
+33,Steven,Seth Wilson,Male,1948-01-01,1,An American screenwriter of cult and mainstream science fiction.
+34,Anil,V. Kumar,Male,1975-06-04,2,A television and film director and producer in India.
+35,David,Grossman,Male,1954-01-25,14,"He addressed the Israeli–Palestinian conflict in his 2008 novel, To the End of the Land."
+36,Barry,Sonnenfeld,Male,1953-04-01,1,An American filmmaker and television director.
+37,David,Carson,Male,1955-09-08,1,"An American graphic designer, art director and surfer. "
+38,Frank,Oz,Male,1944-05-25,13,"An American actor, puppeteer, director and producer."
+39,Stephen,Daldry,Male,1960-05-02,13,"An English director and producer of film, theatre, and television. "
+40,Stig,Bergqvist,Male,1962-04-28,23,"He is known for his work on Revolver (1994), Exit (1990) and Dagen bräcks (1985)."
