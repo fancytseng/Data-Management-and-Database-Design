@@ -1,6 +1,6 @@
 # Data-Management-and-Database-Design
 
-Using SQL
+Using SQL in this project
 
 
 Business problem:
